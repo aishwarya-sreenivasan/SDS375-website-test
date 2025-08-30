@@ -1,0 +1,36 @@
+---
+title: "Aishwarya Sreenivasan"
+image: "selfpic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/aish-sreeni"
+  - label: GitHub
+    url: "https://github.com/aishwarya-sreenivasan"
+  - label: Email
+    url: "mailto:aishwarya.s@utexas.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a junior at the University of Texas at Austin pursuing degrees in 
+Statistics & Data Science and Economics, a minor in Finance, and a certificate 
+in Programming and Computation. I am interested in pursuing a career at the 
+intersection of data and finance. My hobbies include hiking, traveling, cooking,
+spending time with my family, and reading books.
+
+## Interests
+
+* Data Analysis
+* Business Economics
+* Research
+* Machine Learning
+* Design
+* Sustainability
+
+```{r, echo=FALSE}
+Sys.time()
+```
+
+
